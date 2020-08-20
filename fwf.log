@@ -1,0 +1,170 @@
+2020-08-20 20:48:56,087 - root - INFO - None
+2020-08-20 20:49:34,741 - root - INFO - None
+2020-08-20 20:49:34,741 - root - INFO - None
+2020-08-20 20:50:05,664 - root - INFO - None
+2020-08-20 20:50:05,664 - root - INFO - None
+2020-08-20 20:50:05,664 - root - INFO - None
+2020-08-20 20:50:05,671 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:50:05,671 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:50:05,671 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:51:59,027 - root - INFO - None
+2020-08-20 20:51:59,027 - root - INFO - None
+2020-08-20 20:51:59,027 - root - INFO - None
+2020-08-20 20:51:59,027 - root - INFO - None
+2020-08-20 20:51:59,033 - root - ERROR - <class 'TypeError'>
+2020-08-20 20:51:59,033 - root - ERROR - <class 'TypeError'>
+2020-08-20 20:51:59,033 - root - ERROR - <class 'TypeError'>
+2020-08-20 20:51:59,033 - root - ERROR - <class 'TypeError'>
+2020-08-20 20:57:27,676 - root - INFO - None
+2020-08-20 20:57:27,676 - root - INFO - None
+2020-08-20 20:57:27,676 - root - INFO - None
+2020-08-20 20:57:27,676 - root - INFO - None
+2020-08-20 20:57:27,676 - root - INFO - None
+2020-08-20 20:57:27,686 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:57:27,686 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:57:27,686 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:57:27,686 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:57:27,686 - root - ERROR - <class 'ValueError'>
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 20:58:15,928 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,038 - root - INFO - None
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:09,041 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,217 - root - INFO - None
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:12,220 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:03:58,362 - root - INFO - None
+2020-08-20 21:03:58,362 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:08:29,174 - root - INFO - None
+2020-08-20 21:08:29,174 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:08:34,026 - root - INFO - 10
+2020-08-20 21:08:34,027 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:08:42,923 - root - INFO - 1000
+2020-08-20 21:08:42,923 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:09:15,956 - root - INFO - 1000
+2020-08-20 21:09:15,957 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,202 - root - INFO - None
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:06,205 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:24,189 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,935 - root - INFO - None
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:13:37,937 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:14:34,459 - root - INFO - 1000
+2020-08-20 21:14:34,459 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:16:05,780 - root - INFO - 1000
+2020-08-20 21:16:05,780 - root - ERROR - <class 'UnboundLocalError'>
+2020-08-20 21:20:06,060 - root - INFO - 1000
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,103 - root - INFO - None
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,106 - root - ERROR - <class 'TypeError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:35,111 - root - ERROR - <class 'pandas.errors.EmptyDataError'>
+2020-08-20 21:25:53,855 - root - INFO - 1000
+2020-08-20 21:26:29,953 - root - INFO - 1000
+2020-08-20 22:05:21,621 - root - INFO - None
+2020-08-20 22:05:21,622 - root - ERROR - <class 'TypeError'>
+2020-08-20 22:05:21,624 - root - ERROR - <class 'TypeError'>
+2020-08-20 23:41:27,853 - root - INFO - 100
